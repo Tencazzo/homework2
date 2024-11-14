@@ -1,0 +1,14 @@
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\bin\Debug\net8.0\Файлик.exe
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\bin\Debug\net8.0\Файлик.deps.json
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\bin\Debug\net8.0\Файлик.runtimeconfig.json
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\bin\Debug\net8.0\Файлик.dll
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\bin\Debug\net8.0\Файлик.pdb
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.AssemblyInfoInputs.cache
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.AssemblyInfo.cs
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.csproj.CoreCompileInputs.cache
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.dll
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\refint\Файлик.dll
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.pdb
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\Файлик.genruntimeconfig.cache
+F:\Visual Studio проекты\Dz2\DZ2\Файлик\obj\Debug\net8.0\ref\Файлик.dll
